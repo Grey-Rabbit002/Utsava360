@@ -12,7 +12,7 @@ Intuitive User Experience: Navigate our platform with ease, thanks to a user-cen
 
 Culturally Inclusive Offerings: Delight in services that celebrate and cater to the diverse traditions and festivities of India, ensuring your event is not just an occasion, but a reflection of heritage and joy.
 
-![Logo](https://drive.google.com/file/d/1r3Hz1niSi6sOm8TdVOn6lvClV_fWCxYo/view?usp=sharing)
+![Logo](https://drive.google.com/file/d/1BfiaXreD_JwTPTzug4XK8m7muEreHJp7/view?usp=sharing)
 
 ## 📌 Tech Stack
 
