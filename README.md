@@ -70,6 +70,5 @@ Culturally Inclusive Offerings: Delight in services that celebrate and cater to 
     
 ## Feedback 📋
 
-If you have any feedback, please reach out to us at vermaanurag1532@gmail.com
-Happy Coding ✨!# while_2
+
 
